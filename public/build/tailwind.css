@@ -31904,6 +31904,10 @@ video {
   height: 333px;
 }
 
+.h-500 {
+  height: 500px;
+}
+
 .text-xs {
   font-size: 0.5rem;
   line-height: 0.625rem;
